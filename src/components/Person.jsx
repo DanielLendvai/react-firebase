@@ -1,8 +1,6 @@
 import React from "react";
 
 function Person({ name, height, mass }) {
-    
-    
 
     return (
         <div className="person">
